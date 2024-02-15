@@ -9,6 +9,8 @@ public class Main {
 		System.out.println("test");
 		int a = sc.nextInt();
 		System.out.println(a + 8);
+		System.out.println("out");
+		System.out.println("git test");
 	}
 
 }
